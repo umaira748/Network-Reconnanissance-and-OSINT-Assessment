@@ -159,7 +159,7 @@ This repository is intended for educational and professional portfolio documenta
 
 **Umaira Asghar**  
 Cybersecurity Intern — NetworkWalks  
-Linkedln:https://www.linkedin.com/in/umaira-asghar-825894371?
+Linkedln:https://www.linkedin.com/in/umaira-asghar-825894371
 
 ---
 
