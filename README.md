@@ -25,12 +25,6 @@ This repository documents practical reconnaissance and network-discovery exercis
 
 The repository includes an editable assessment report and screenshot-based evidence for the tasks performed. It is a record of reconnaissance and learning activities—not a claim of successful exploitation or a comprehensive penetration test.
 
-> **Internship details**  
-> **Prepared by:** Umaira Asghar  
-> **Organization:** NetworkWalks  
-> **Batch:** 2084  
-> **Instructor:** Waqas Karim CCIE  
-> **Assessment date:** 13 November 2026
 
 ## Assessment Report
 
@@ -165,8 +159,7 @@ This repository is intended for educational and professional portfolio documenta
 
 **Umaira Asghar**  
 Cybersecurity Intern — NetworkWalks  
-Batch 2084  
-Instructor: Waqas Karim CCIE
+Linkedln:https://www.linkedin.com/in/umaira-asghar-825894371?
 
 ---
 
