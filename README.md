@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="evidence/zenmap-local-host-discovery-redacted.jpg" alt="Redacted Zenmap local network discovery evidence" width="900" />
-</div>
+
 
 <div align="center">
 
@@ -89,33 +87,45 @@ The screenshot records a theHarvester command attempt with a limit of 50 and the
 
 The following screenshots are included as practical proof of the activities recorded in the report. Click any image to view it at full size.
 
-### Evidence 01 — Zenmap: Local Host Discovery
 
-[![Redacted Zenmap scan](evidence/zenmap-local-host-discovery-redacted.jpg)](evidence/zenmap-local-host-discovery-redacted.jpg)
+## Practical Evidence & Screenshots
 
-*The public copy masks local device identifiers and the exact private subnet.*
+### Evidence 01 – Zenmap: Local Host Discovery
 
-### Evidence 02 — Whois: Domain Registration Review
+![Zenmap Scan](./zenmap-local-host-discovery-redacted.jpg)
 
-[![Whois output](evidence/whois-domain-registration.jpg)](evidence/whois-domain-registration.jpg)
+*Local network host discovery performed using Zenmap.*
 
-### Evidence 03 — WhatWeb, Nslookup & cURL
+### Evidence 02 – WHOIS: Domain Registration
 
-[![Web fingerprinting, DNS resolution and HTTP headers](evidence/whatweb-nslookup-curl-redacted.jpg)](evidence/whatweb-nslookup-curl-redacted.jpg)
+![WHOIS Output](./whois-domain-registration.jpg)
 
-*The cURL cookie value has been redacted in the public evidence copy.*
+*Domain registration information reviewed using WHOIS.*
 
-### Evidence 04 — Wafw00f & DNSRecon
+### Evidence 03 – WhatWeb, Nslookup & cURL
 
-[![WAF identification and DNS enumeration](evidence/wafw00f-dnsrecon.jpg)](evidence/wafw00f-dnsrecon.jpg)
+![Web Reconnaissance](./whatweb-nslookup-curl-redacted.jpg)
 
-### Evidence 05 — Maltego: Relationship Graph
+*Web technology fingerprinting, DNS resolution and HTTP response header analysis.*
 
-[![Maltego relationship graph](evidence/maltego-relationship-graph.jpg)](evidence/maltego-relationship-graph.jpg)
+### Evidence 04 – WAF Detection & DNS Enumeration
 
-### Evidence 06 — theHarvester: Task Attempt
+![WAF and DNSRecon](./wafw00f-dnsrecon.jpg)
 
-[![theHarvester output](evidence/theharvester-attempt.jpg)](evidence/theharvester-attempt.jpg)
+*Web application firewall identification and DNS record enumeration.*
+
+### Evidence 05 – Maltego: Relationship Graph
+
+![Maltego Graph](./maltego-relationship-graph.jpg)
+
+*Visual representation of identified domain-related relationships.*
+
+### Evidence 06 – TheHarvester
+
+![TheHarvester Output](./theharvester-attempt.jpg)
+
+*TheHarvester execution and OSINT reconnaissance workflow.*
+
 
 *The screenshot shows missing API-key notices; it is documented as an attempt, not a completed result.*
 
